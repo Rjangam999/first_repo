@@ -1,0 +1,5 @@
+1. GPG keys
+2. git dif
+3. git pull 
+4. pat down
+5. git stash
